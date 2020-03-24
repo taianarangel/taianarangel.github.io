@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Sobre mim
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Cristiano. Sou apaixonado por ciências de dados.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### História
 
-What else do you need?
 
-### my history
+Graduado em Licenciatura em Matemática pela Universidade Federal de Viçosa (2015) e mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa (2018). Atualmente é doutorando no programa de pós-graduação em Estatística Aplicada e Biometria da UFV, com bolsa concedida pela CAPES, e atua como membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA). Atua principalmente com gerenciamento e análise de grandes conjuntos de dados na área de biometria, desenvolvendo trabalhos em seleção genômica ampla (GWS). Possui conhecimentos avançados em programação tendo experiência com as linguagens Python, R e Julia. Interesse em análise exploratória de dados, visualização de dados, estatística experimental, regressão, e machine learning.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
