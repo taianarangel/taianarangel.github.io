@@ -9,7 +9,7 @@
 
 facebook:
   name: "Facebook"
-  urlTemplate: "https://www.facebook.com/profile.php?id=100010678895005"
+  urlTemplate: "https://www.facebook.com/people/Cristiano-de-Oliveira/100010678895005"
   icon: "fab fa-facebook"
 
 github:
