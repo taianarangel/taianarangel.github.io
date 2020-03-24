@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Resumo
 subtitle: Sobre mim
 ---
 
