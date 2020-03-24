@@ -23,7 +23,7 @@ Ciência e tecnologia
 [Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA)](http://www.lapa.ufv.br/?page_id=58)
 
 
-- nstrutor
+- Instrutor
 Empresa: Universidade Federal de Viçosa
 2019
 Ciência e tecnologia
