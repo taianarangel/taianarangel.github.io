@@ -1,13 +1,12 @@
 ---
 layout: post
-title: ''
+title: Untitled
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
   - fork
   - follow
-tags:
-  - test
+tags: null
 comments: true
 published: true
 date: '2020-03-23'
