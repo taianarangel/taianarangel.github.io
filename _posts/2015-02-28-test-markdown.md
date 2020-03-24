@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Untitled
+title: ' '
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
