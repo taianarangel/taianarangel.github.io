@@ -11,7 +11,7 @@ Período: 364 horas
 
 - Machine Learning  
 Período: 2020 - 2020  
-Data Science Academy (DSA)](https://www.datascienceacademy.com.br/)  
+[Data Science Academy (DSA)](https://www.datascienceacademy.com.br/)  
 Período: 120 horas
 
 - Python Fundamentos para Análise de Dados  
