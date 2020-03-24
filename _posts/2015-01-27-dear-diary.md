@@ -1,6 +1,16 @@
 ---
 layout: post
-title: Dear diary
+title: Cursos de especialização
+published: true
 ---
+- Machine Learning
+[Data Science Academy (DSA)](https://www.datascienceacademy.com.br/)
+Códiga horária: 120 horas
 
-What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don't hear in those nursery rhymes is that she starves me if I don't go to school with her; it's the only way I can stay alive!  I'm thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).
+- Python Fundamentos para Análise de Dados
+[Data Science Academy (DSA)](https://www.datascienceacademy.com.br/)
+Códiga horária: 54 horas
+
+- Planejamento de Experimentos e Análise de Experiemntos
+[Universidade Federal de Viçosa (UFV)](https://www.ufv.br/)
+Código horária: 24 horas
