@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Formação Acadêmica
-subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
 tags:
   - books
   - test
 published: true
+date: '2020-03-23'
 ---
 
 - Mestrado em Estatística Aplicada e Biometria
