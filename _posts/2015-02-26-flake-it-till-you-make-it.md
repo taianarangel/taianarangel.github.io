@@ -3,8 +3,7 @@ layout: post
 title: Formação Acadêmica
 bigimg: /img/path.jpg
 tags:
-  - books
-  - test
+  - ufv
 published: true
 date: '2020-03-23'
 ---
