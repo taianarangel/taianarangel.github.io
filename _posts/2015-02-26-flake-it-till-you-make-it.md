@@ -2,8 +2,7 @@
 layout: post
 title: Formação Acadêmica
 bigimg: /img/path.jpg
-tags:
-  - ufv
+tags: null
 published: true
 date: '2020-03-23'
 ---
