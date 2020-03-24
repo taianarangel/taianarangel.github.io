@@ -7,12 +7,12 @@ date: '2020-03-23'
 - Formação Cientista de Dados 2.0
 Período: 2020 - 
 [Data Science Academy (DSA)](https://www.datascienceacademy.com.br/)
-Códiga horária: 364 horas
+Período: 364 horas
 
 - Machine Learning
 Período: 2020 - 2020
 [Data Science Academy (DSA)](https://www.datascienceacademy.com.br/)
-Códiga horária: 120 horas
+Período: 120 horas
 
 - Python Fundamentos para Análise de Dados
 Período: 2019 - 2019
