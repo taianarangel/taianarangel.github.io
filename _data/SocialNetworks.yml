@@ -14,7 +14,7 @@ facebook:
 
 github:
   name: "GitHub"
-  urlTemplate: "https://github.com/{value}"
+  urlTemplate: "https://github.com/Cristiano2132"
   icon: "fab fa-github"
 
 twitter:
