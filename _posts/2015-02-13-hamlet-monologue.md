@@ -6,7 +6,7 @@ published: true
 date: '2020-03-23'
 ---
 - Pesquisador  
-2019 –  
+2020 –  
 Ciência e tecnologia  
 [Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA)](http://www.lapa.ufv.br/?page_id=58)
 
@@ -28,4 +28,4 @@ GESTBIO - [Grupo de Estudo em Estatística Aplicada e Biometria](https://www.ges
 Empresa: Universidade Federal de Viçosa  
 2019 - 209  
 Ciência e tecnologia  
-Estatística Experimental: Análise com o software R (Treinamento - 24 horas)  
+Estatística Experimental: Análise com o software R (Treinamento - 24 horas)
