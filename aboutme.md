@@ -15,12 +15,11 @@ Sou membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LA
 Atuo principalmente com gerenciamento e análise de grandes conjuntos de dados na área de biometria, desenvolvendo trabalhos em seleção genômica ampla (GWS). 
 
 ### Competências
-Possui conhecimentos avançados em programação tendo experiência com as linguagens Python e R. 
-
-### Interesses
-- Análise exploratória de dados
-- Visualização de dados
-- Estatística experimental
--Inferência Estatística
+- Conhecimentos avançados em programação;
+- Experiência com as linguagens Python e R; 
+- Análise exploratória de dados;
+- Visualização de dados;
+- Estatística experimental;
+-Inferência Estatística;
 - Machine learning.
 
