@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formação acadêmica
+title: ''
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
@@ -13,13 +13,4 @@ published: true
 date: '2020-03-23'
 ---
 
-
-- Mestrado em Estatística Aplicada e Biometria
-Universidade Federal de Viçosa(UFV)
-Período 2016 – 2018
-
-
-
-- Graduação em Licenciatura em Matemática
-Universidade Federal de Viçosa(UFV)
-Período 2010 - 2016
+Apaixonado por ciências de dados, atualmente sou doutorando no programa de pós-graduação em Estatística Aplicada e Biometria.
