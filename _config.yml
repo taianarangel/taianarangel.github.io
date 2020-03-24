@@ -67,7 +67,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 # Para modificar, basta adicionar o link do perfil em SocialNetworks.yml
 social-network-links:
-  rss: False
+#  rss: true
   email: "cristiano2132.ufv@gmail.com"
   facebook: daattali
   github: daattali
