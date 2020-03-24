@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resumo 
-subtitle: Sobre mim
+title: Sobre mim
+subtitle: 
 ---
 
 Meu nome é Cristiano. Sou apaixonado por ciências de dados.
