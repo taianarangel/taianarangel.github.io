@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Experiência
-tags:
-  - books
-  - shakespeare
-  - test
+tags: null
 published: true
+date: '2020-03-23'
 ---
 
 - Professor Temporário
