@@ -12,7 +12,7 @@ Ciência e tecnologia
 
 
 - Professor Temporário  
-Período: fev. de 2019  
+Período: 2019 -2019  
 Florestal, Minas Gerais, Brasil  
 Disciplina: Estatística Aplicada às Ciências Biológicas e Agrárias, na disciplina CBF 790 - Tópicos  Especiais I, com duração de 30 horas (curso de verão).
 
@@ -26,6 +26,6 @@ GESTBIO - [Grupo de Estudo em Estatística Aplicada e Biometria](https://www.ges
 
 - Instrutor  
 Empresa: Universidade Federal de Viçosa  
-2019  
+2019 - 209  
 Ciência e tecnologia  
 Estatística Experimental: Análise com o software R (Treinamento - 24 horas)  
