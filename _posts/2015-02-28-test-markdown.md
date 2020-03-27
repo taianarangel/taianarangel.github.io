@@ -12,4 +12,4 @@ published: true
 date: '2020-03-23'
 ---
 
-Apaixonado por ciências de dados, atualmente sou doutorando no programa de pós-graduação em Estatística Aplicada e Biometria.
+Apaixonado por ciências de dados, atualmente sou doutorando no programa de pós-graduação em Estatística Aplicada e Biometria. asdsa asasdas
