@@ -9,12 +9,12 @@
 
 facebook:
   name: "Facebook"
-  urlTemplate: "https://www.facebook.com/people/Cristiano-de-Oliveira/100010678895005"
+  urlTemplate: "https://www.facebook.com/taianarangelm"
   icon: "fab fa-facebook"
 
 github:
   name: "GitHub"
-  urlTemplate: "https://github.com/Cristiano2132"
+  urlTemplate: "https://github.com/taianarangel"
   icon: "fab fa-github"
 
 twitter:
@@ -34,7 +34,7 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  urlTemplate: "https://www.linkedin.com/in/cristiano-ferreira-231a31140/"
+  urlTemplate: "https://www.linkedin.com/in/taiana-rangel-434048176/"
   icon: "fab fa-linkedin"
 
 xing:
