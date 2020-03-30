@@ -9,7 +9,7 @@ gh-badge:
 tags: null
 comments: true
 published: true
-date: '2020-03-23'
+date: '2020-03-30'
 ---
 
-Apaixonado por ciências de dados, atualmente sou doutorando no programa de pós-graduação em Estatística Aplicada e Biometria. asdsa asasdas
+Doutoranda no programa de pós-graduação em Estatística Aplicada e Biometria na Universidade Federal de Viçosa.
