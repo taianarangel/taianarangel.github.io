@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Cristiano Ferreira de Oliveira
+title: Taiana Lopes Rangel Miranda
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Doutoranda em Estatística Aplicada e Biometria
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -37,7 +37,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#FFDAB9"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -68,12 +68,12 @@ author:
 # Para modificar, basta adicionar o link do perfil em SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "cristiano2132.ufv@gmail.com"
-  facebook: daattali
-  github: daattali
+  email: "taiana.miranda@ufv.br"
+  facebook: taianarangelm
+  github: taianarangel
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: taiana-rangel-434048176
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
