@@ -4,22 +4,13 @@ title: Sobre mim
 subtitle: 
 ---
 
-Meu nome é Cristiano.
+Graduada em Estatística pela Universidade Federal de Ouro Preto (2017) e mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa (2019). 
+Atualmente sou doutoranda no Programa de Pós-graduação em Estatística Aplicada e Biometria na UFV.
+Sou membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA) e do Grupo de estudo em estatística aplicada e biometria (GESTBIO). 
 
-### História
-
-
-Sou graduado em Licenciatura em Matemática pela Universidade Federal de Viçosa (2015) e mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa (2018). 
-Atualmente sou doutorando no programa de pós-graduação em Estatística Aplicada e Biometria da UFV.
-Sou membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA). 
-Atuo principalmente com gerenciamento e análise de grandes conjuntos de dados na área de biometria, desenvolvendo trabalhos em seleção genômica ampla (GWS). 
-
-### Competências
-- Conhecimentos avançados em programação;
-- Experiência com as linguagens Python e R; 
-- Análise exploratória de dados;
-- Visualização de dados;
-- Estatística experimental;
--Inferência Estatística;
-- Machine learning.
+# Competências
+* Experiência com a linguagem R; 
+* Análise exploratória de dados;
+* Visualização de dados;
+* Inferência Estatística.
 
